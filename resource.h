@@ -1,0 +1,6 @@
+#ifndef MI_MEDIA_PLAYER_RESOURCE_H
+#define MI_MEDIA_PLAYER_RESOURCE_H
+
+#define IDI_APP_ICON 101
+
+#endif
